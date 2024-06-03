@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+</head>
+<style>
+</style>
+<body>
+    <div id="joke">
+
+    </div>
+    <button id = "on">joke</button>
+</body>
+<script>
+    let joke =["How do you get a squirrel to like you?  Act like a nut.",
+    
+    "What do you call two birds in love?  Tweethearts",
+    
+"How does a scientist freshen her breath? With experi-mints.",
+    
+    "How are false teeth like stars? They come out at night.",
+    
+    " What building in your town has the most stories? The public library.",
+    
+    " What’s worse than finding a worm in your apple? Finding half a worm.",
+    
+  " What is a computer's favorite snack?  Computer chips.",
+    
+    " What did one volcano say to the other? I lava you.",
+    
+    "How do we know that the ocean is friendly? It waves.",
+    
+    "What is a tornado’s favorite game to play? Twister.",
+    
+    "How does the moon cut his hair? Eclipse it.", 
+    
+  "25. How do you talk to a giant? Use big words.",
+
+    " What animal is always at a baseball game? A bat.",
+
+        " What falls in winter but never gets hurt? Snow",
+        
+         "What did the Dalmatian say after lunch That hit the spot",
+    
+        " Why did the kid cross the playground To get to the other slide", 
+
+        "What do you call a droid that takes the long way around  R2 detour",
+
+        "What song does a catlike best tree lind ice"
+    ]
+document.getElementById("on").addEventListener("onclick",function(){
+let ran = Math.floor(Math.random() * joke.length)
+ let container = document.getElementById("joke")
+container.textContent = joke[ran]
+})
+
+</script>
+</html>

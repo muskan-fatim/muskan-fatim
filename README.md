@@ -1,19 +1,47 @@
-### Hi there, I'm Muskan! 👋
 
-- 🌍 **About Me:** I'm a student in the Generative AI and Metaverse course at GIAIC, organized at Governor House, Karachi. I'm passionate about front-end development and web technologies.
+<h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan-fatim&theme=2077" alt="GitHub Stats" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan-fatim&theme=2077" alt="Top Languages" height="180">
+</div>
 
 
-- 👩‍💻 **Interests:** Focused on frontend development, and I love diving into complex projects that challenge my coding and logic skills—like my [Resume Generator](https://resum-genreater.vercel.app/), which has been one of my favorite projects to date!
+##
 
-  
-- 🌱 **Currently Learning:** Expanding my skills in Next.js, Tailwind CSS, and exploring open-source contributions in the GirlScript Summer of Code program.
 
-  
-- 💬 **Looking to Collaborate:** Open to collaboration on web development and open-source projects, especially those that focus on impactful and innovative solutions.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  </div>
 
-  
-- 📫 **Reach Me:** Feel free to connect on linkedin [https://www.linkedin.com/in/muskan-fatima-ab90732b7/] or check out my protofolio [https://protofilo-2.vercel.app/]
+###
 
-  
-- ⚡ **Fun Fact:** When I'm not coding, you’ll find me exploring new design trends or learning more about the metaverse!
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+### About Me:
+- 🔭 Working on my [Portfolio](https://protofilo-2.vercel.app/) and **open-source contributions** with GirlScript Summer of Code and Hacktoberfest.
+- 🌱 Learning advanced **CSS techniques**, **API integrations**, and enhancing my **JavaScript** skills.
+- 💻 Favorite Project: **Resume Generator** (complex code and logic involved!)
+- 🧠 Always exploring new ways to improve, upskill, and learn!
 

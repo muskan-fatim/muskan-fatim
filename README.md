@@ -1,7 +1,6 @@
 
 
-  <img src="https://cdn.jsdelivr.ne<h2 align="left">
- <h2>Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
+  <img src="https://cdn.jsdelivr.ne"<h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
 
 
 <div align="center">

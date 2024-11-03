@@ -1,6 +1,6 @@
 
 
-  <img src="https://cdn.jsdelivr.ne"<h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
+  <h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
 
 
 <div align="center">
@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />t/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   </div>
 
 ###
@@ -66,3 +65,4 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+ ![Visitor Count](https://profile-counter.glitch.me/{muskan-fatim}/count.svg)

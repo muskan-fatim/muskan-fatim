@@ -1,21 +1,7 @@
 
 
-  <img src="https://cdn.jsdelivr.ne<h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
-
-.intro-text {
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
-}
-
-.intro-text-visible {
-    opacity: 1;
-    transform: translateY(0);
-}
-
-window.addEventListener('load', () => {
-    document.querySelector('.intro-text').classList.add('intro-text-visible');
-});
+  <img src="https://cdn.jsdelivr.ne<h2 align="left">
+ <h2>Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
 
 
 <div align="center">

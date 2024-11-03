@@ -1,5 +1,22 @@
 
-<h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
+
+  <img src="https://cdn.jsdelivr.ne<h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
+
+.intro-text {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.intro-text-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+window.addEventListener('load', () => {
+    document.querySelector('.intro-text').classList.add('intro-text-visible');
+});
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan-fatim&theme=2077" alt="GitHub Stats" height="180">
@@ -20,8 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />t/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   </div>
 
 ###
@@ -44,6 +60,9 @@
 - 🌱 Learning advanced **CSS techniques**, **API integrations**, and enhancing my **JavaScript** skills.
 - 💻 Favorite Project: **Resume Generator** (complex code and logic involved!)
 - 🧠 Always exploring new ways to improve, upskill, and learn!
+- 🤝 Let's connect and collaborate! Follow me on GitHub.
+
+
 
 
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>

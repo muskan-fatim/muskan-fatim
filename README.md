@@ -13,7 +13,7 @@
 
 ### 📌 Key Projects:
 <a name="key-projects"></a>
-- **[FoodPanda Clone](https://github.com/muskan-fatim/foodpanda-clone)**: A fully responsive clone of the FoodPanda website, built with **React** and **CSS**.
+- **[FoodPanda Clone](https://github.com/muskan-fatim/panda-clone.git)**: A fully responsive clone of the FoodPanda website, built with **React** and **CSS**.
 - **[Resume Generator](https://github.com/muskan-fatim/resume-builder)**: A tool that generates resumes from templates with complex logic and customization.
 - **[Protofilo_2](https://github.com/muskan-fatim/Protofilo_2)**: My personal portfolio created with **Next.js** and **TypeScript**.
 

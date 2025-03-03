@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Muskan, a passionate frontend developer and BSc student.</h2>
 
 
-🚀 "Warning: Following me may cause an uncontrollable urge to code, contribute, and build cool stuff! Proceed at your own risk. 😆🔥"
+⚠️ Warning: Following me may cause an uncontrollable urge to code, contribute, and build cool stuff! Proceed at your own risk. 😆🔥
 
 
 <!-- Graphs Section -->

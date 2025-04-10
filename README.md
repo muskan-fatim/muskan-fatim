@@ -1,8 +1,3 @@
-<h2 align="left">Hi 👋! I'm Muskan — a passionate Frontend Developer & BSc Student from Pakistan 🚀</h2>
-
-⚠️ Warning: Following me might cause a sudden desire to code, contribute, and build cool stuff. Proceed at your own risk! 😆🔥
-
----
 <div align="center">
   <a href="https://blog-website-rho-blush.vercel.app/" style="color:blue; text-decoration:none;">Blog</a>  | 
   <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/" style="color:blue; text-decoration:none;"> Let's Connect</a>  | 
@@ -11,6 +6,12 @@
 
   
 </div>
+
+
+
+<h2 align="left">Hi 👋! I'm Muskan — a passionate Frontend Developer & BSc Student from Pakistan 🚀</h2>
+
+⚠️ Warning: Following me might cause a sudden desire to code, contribute, and build cool stuff. Proceed at your own risk! 😆🔥
 
 ---
 ### 🚀 About Me

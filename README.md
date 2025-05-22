@@ -1,81 +1,84 @@
 <div align="center">
-  <a href="https://blog-website-rho-blush.vercel.app/" style="color:blue; text-decoration:none;">Blog</a>  | 
-  <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/" style="color:blue; text-decoration:none;"> Let's Connect</a>  | 
-  <a href="https://protofilo-2.vercel.app/" style="color:blue; text-decoration:none;"> Portfolio</a>  |
-    <a href="https://leetcode.com/u/Code_with_muskan/" style="color:blue; text-decoration:none;">Leet code</a>
-
-  
+  <a href="https://dev.to/muskanfatim/destructor-in-python-380e">📝 Blog</a> • 
+  <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/">🤝 Let's Connect</a> • 
+  <a href="https://protofilo-2.vercel.app/">🌐 Portfolio</a> • 
+  <a href="https://leetcode.com/u/Code_with_muskan/">🧠 LeetCode</a>
 </div>
 
+---
 
+<h2 align="center">Hi 👋, I'm <strong>Muskan</strong> — Frontend Developer & BSc Student from Pakistan 🇵🇰</h2>
 
-<h2 align="left">Hi 👋! I'm Muskan — a passionate Frontend Developer & BSc Student from Pakistan 🚀</h2>
-
-⚠️ Warning: Following me might cause a sudden desire to code, contribute, and build cool stuff. Proceed at your own risk! 😆🔥
+<p align="center">
+  ⚠️ Warning: Following me may result in a sudden urge to code, collaborate, and build amazing things. Proceed at your own risk! 😆🔥
+</p>
 
 ---
+
 ### 🚀 About Me
-- 🎓 BSc Student | Frontend Developer (Next.js & Tailwind CSS lover)
-- 💻 Currently contributing to open source via **GirlScript Summer of Code** & **Hacktoberfest**
-- 🧠 Learning: Advanced CSS, API integrations, JavaScript mastery
-- 📌 Favorite Project: **Resume Generator** — complex logic, dynamic rendering, and fun!
-- 🤞 Let's connect, learn, and build cool projects together 💙
+
+- 🎓 **BSc Student** | Passionate **Frontend Developer**
+- 💻 Currently contributing to **GirlScript Summer of Code** & **Hacktoberfest**
+- 🧠 **Learning:** Advanced CSS, API Integrations, JavaScript Mastery
+- 🛠️ **Tech Love:** Next.js, Tailwind CSS, TypeScript
+- 💼 **Favorite Project:** Resume Generator – logic-heavy, dynamic, and fun!
+- 🤝 Let’s collaborate, grow, and create amazing products 💙
 
 ---
-### 🔍 Coding Profiles & Stats
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan-fatim&theme=2077" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan-fatim&theme=2077" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-fatim&theme=2077"/>
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🚗 [**Mornet Car Rent**](https://mornet-project.vercel.app/) | Full-featured car rental app built using all my skills. Continuously improving and optimizing it. |
+| 🥡 [**FoodPanda Clone**](https://panda-clone.vercel.app/) | A fully responsive FoodPanda clone using React & CSS. [GitHub](https://github.com/muskan-fatim/panda-clone.git) |
+| 🌐 [**Protofilo_2**](https://protofilo-2.vercel.app/) | Personal portfolio made with Next.js + TypeScript. [GitHub](https://github.com/muskan-fatim/Protofilo_2) |
+| 🌱 [**Growth Mindset Project**](https://growth-mindset-project-0.streamlit.app/) | Interactive app to develop growth mindset using Streamlit. |
+| 🌚 [**Ramadan Coding Night**](https://github.com/muskan-fatim/Ramdan_coding_night.git) | 20-day coding challenge with daily Python & FastAPI projects. |
+| 🎉 [**Tech Events**](https://tech-event-lovat.vercel.app/) | Event listing site with search & filter. [GitHub](https://github.com/muskan-fatim/tech-events) |
+| ✍️ [**Blog Website**](https://blog-website-rho-blush.vercel.app/) | Dynamic blog platform with a comment system. [GitHub](https://github.com/muskan-fatim/blog-website) |
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+</div>
+
+---
+
+### 🧠 Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/Code_with_muskan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/muskan-fatim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan-fatim&theme=2077" alt="GitHub Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan-fatim&theme=2077" alt="Top Languages" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-fatim&theme=2077" alt="GitHub Streak"/>
-</div>
-
 ---
 
-### 🌟 Key Projects
-
-- 🥡 **[FoodPanda Clone](https://panda-clone.vercel.app/)** – Fully responsive clone using React + CSS. [GitHub](https://github.com/muskan-fatim/panda-clone.git)
-- 🌐 **[Protofilo_2](https://protofilo-2.vercel.app/)** – Personal portfolio built with Next.js + TypeScript. [GitHub](https://github.com/muskan-fatim/Protofilo_2)
-- 🌱 **[Growth Mindset Project](https://growth-mindset-project-0.streamlit.app/)** – An interactive mindset-enhancing app built using **Streamlit**.
-- 🌚 **[Ramadan Coding Night](https://github.com/muskan-fatim/Ramdan_coding_night.git)** – A 20-day coding challenge during Ramadan featuring daily Python & FastAPI projects.
-- 📍 **[Tech Events](https://tech-event-lovat.vercel.app/)** – Tech event listing app with filtering. [GitHub](https://github.com/muskan-fatim/tech-events)
-- 📄 **[Resume Generator](https://resume-generator-azure.vercel.app/)** – Generates dynamic resumes from templates. [GitHub](https://github.com/muskan-fatim/resume-builder)
-- 📜 **[Blog Website](https://blog-website-rho-blush.vercel.app/)** – Fully dynamic blog with a comment system. [GitHub](https://github.com/muskan-fatim/blog-website)
-- 🚗 **[Hackathon 3 – Car Rental](https://hackthone-3-two.vercel.app/)** – Feature-rich car rental app with full UI. [GitHub](https://github.com/muskan-fatim/hackthone-3).
-
----
-
-### 🔧 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-</div>
-
----
-
-### 📍 Let's Connect
+### 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/" target="_blank">
@@ -86,7 +89,6 @@
   </a>
 </div>
 
----
 
 
 

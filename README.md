@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://dev.to/muskanfatim/prompt-like-a-pro-zero-shot-few-shot-chain-of-thought-explained-simply-2ihi">📝 Blog</a> • 
+  <a href="https://dev.to/muskanfatim/do-agents-call-tools-every-time-heres-the-truth-and-how-to-control-it-6o6">📝 Blog</a> • 
   <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/">🤝 Let's Connect</a> • 
   <a href="https://protofilo-2.vercel.app/">🌐 Portfolio</a> • 
   <a href="https://leetcode.com/u/Code_with_muskan/">🧠 LeetCode</a>

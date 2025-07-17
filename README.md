@@ -1,100 +1,157 @@
+
+
+## 💫 Muskan Fatima
+
 <div align="center">
-  <a href="https://dev.to/muskanfatim">✍️ Dev.to</a> • 
-  <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/">🤝 LinkedIn</a> • 
-  <a href="https://protofilo-2.vercel.app/">🌐 Portfolio</a> • 
-  <a href="https://leetcode.com/u/Code_with_muskan/">🧠 LeetCode</a> • 
-  <a href="https://www.upwork.com/freelancers/~01b71c5cd538cae74b">💼 Upwork</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+🚀;Next.js+Enthusiast✨;BSc+Student+🎓;Always+Learning+💡&center=true&width=500&height=45">
 </div>
-
----
-
-<h2 align="center">Hi 👋, I'm <strong>Muskan Fatima</strong> — Frontend Developer & BSc Student from Pakistan 🇵🇰</h2>
 
 <p align="center">
-  I love building clean, functional web apps using Next.js, Tailwind CSS, and TypeScript. Always learning, always coding! 🚀
+  <a href="https://protofilo-2.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/">🤝 LinkedIn</a> •
+  <a href="https://dev.to/muskanfatim">✍️ Dev.to</a> •
+  <a href="https://leetcode.com/u/Code_with_muskan/">🧠 LeetCode</a> •
+  <a href="https://www.upwork.com/freelancers/~01b71c5cd538cae74b">💼 Upwork</a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🎓 BSc Student | Frontend Developer | Tech Explorer
-- 🌟 Promoted to **Senior Student & Faculty Member** at Governor House Karachi (GenAI Program)
-- 💻 Currently contributing to **GirlScript Summer of Code** & **Hacktoberfest**
-- 📚 Learning: Advanced CSS, API Integrations, JavaScript Deep Dives
-- 🛠️ Tools I Love: Next.js, Tailwind CSS, TypeScript
-- 🧠 Favorite Project: Resume Generator (complex logic, dynamic UI)
 
 ---
 
-### 🧰 Tech Stack
+### ✨ About Me
+
+> I write code like I sketch dreams —
+> Simple, sharp, and full of meaning.
+>
+> From the heart of Pakistan 🇵🇰,
+> I’m Muskan — a student, a creator,
+> and a frontend developer with a vision.
+>
+> I breathe life into pixels using
+> **Next.js**, **Tailwind CSS**, and **TypeScript**.
+>
+> Whether it’s a portfolio, a product, or a passion project —
+> I build it clean, I build it real,
+> I build it to make people feel.
+>
+> Currently:
+> 🌱 Faculty member at GenAI Program
+> 🔧 Contributing to GSSoC & Hacktoberfest
+> 📖 Always learning, always building.
+
+---
+
+
+### 💻 Tech Stack I Love
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,git" />
 </div>
 
 ---
 
-### 🌟 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🚗 [**Mornet Car Rent**](https://mornet-project.vercel.app/) | Full-featured car rental app showcasing dynamic components and modern design |
-| 🥡 [**FoodPanda Clone**](https://panda-clone.vercel.app/) | Responsive clone using React & CSS. [GitHub](https://github.com/muskan-fatim/panda-clone.git) |
-| 🌐 [**Protofilo_2**](https://protofilo-2.vercel.app/) | Personal portfolio using Next.js + TypeScript. [GitHub](https://github.com/muskan-fatim/Protofilo_2) |
-| 🌱 [**Growth Mindset App**](https://growth-mindset-project-0.streamlit.app/) | Interactive app promoting a growth mindset (built with Streamlit) |
-| 🌚 [**Ramadan Coding Night**](https://github.com/muskan-fatim/Ramdan_coding_night.git) | 20-day Python + FastAPI project challenge |
-| 🎉 [**Tech Events**](https://tech-event-lovat.vercel.app/) | Event listing platform with filters and search |
-| ✍️ [**Blog Website**](https://blog-website-rho-blush.vercel.app/) | Dynamic blog with a comment system. [GitHub](https://github.com/muskan-fatim/blog-website) |
-
----
-
-### 📈 GitHub Stats
+### 🎨 Project Showcase
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan-fatim&theme=2077" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan-fatim&theme=2077" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-fatim&theme=2077"/>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://mornet-project.vercel.app/">
+        <br />
+        <strong>🚗 Mornet Car Rent</strong>
+      </a>
+      <br />
+      <sub>Next.js · Tailwind · Modern UI</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://mf-resume-builder.vercel.app/"> 
+      <br />
+      <strong>📄 Resume Generator</strong>
+        </a>
+      <br />
+      <sub>Dynamic templates · Logic-heavy</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://panda-clone.vercel.app/">
+        <br />
+        <strong>🥡 FoodPanda Clone</strong>
+      </a>
+      <br />
+      <sub>Responsive · React + CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://protofilo-2.vercel.app/">
+        <br />
+        <strong>🌐 Protofilo</strong>
+      </a>
+      <br />
+      <sub>Portfolio · Next.js + TS</sub>
+    </td>
+    <td align="center">
+      <a href="https://growth-mindset-project-0.streamlit.app/">
+        <br />
+        <strong>🌱 Growth Mindset App</strong>
+      </a>
+      <br />
+      <sub>Motivation · Streamlit</sub>
+    </td>
+    <td align="center">
+      <a href="https://tech-event-lovat.vercel.app/">
+        <br />
+        <strong>🎉 Tech Events App</strong>
+      </a>
+      <br />
+      <sub>Filtering · Pure JS</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 🧠 Coding Profiles
+
+### 📊 GitHub Highlights
 
 <div align="center">
-  <a href="https://leetcode.com/u/Code_with_muskan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskan-fatim&theme=2077" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muskan-fatim&theme=radical" />
+</div>
+
+---
+
+### 🎯 Coding Profiles
+
+<div align="center">
+  <img src="https://www.codewars.com/users/muskan-fatim/badges/large" />
+  <br /><br />
+  <a href="https://leetcode.com/u/Code_with_muskan/">
+    <img src="https://img.shields.io/badge/LeetCode-Muskan-orange?style=flat&logo=leetcode" />
   </a>
-  <a href="https://github.com/muskan-fatim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01b71c5cd538cae74b" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/muskanfatim" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  <a href="https://dev.to/muskanfatim">
+    <img src="https://img.shields.io/badge/Dev.to-Muskan-000000?style=flat&logo=dev.to" />
   </a>
 </div>
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
   <a href="mailto:mushiifatima3456@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-muskan-fc3c3c?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/AbdulRehma59653">
+    <img src="https://img.shields.io/badge/TWITTER-Muskan-blue?style=flat&logo=twitter" />
   </a>
 </div>
+
+---
+
+> 🔁 *"Code. Create. Contribute. Repeat."*
 
 
 

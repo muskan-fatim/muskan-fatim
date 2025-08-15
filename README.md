@@ -1,157 +1,78 @@
-
-
-## 💫 Muskan Fatima
+#  Muskan Fatima — Crafting Interfaces, Creating Opportunities
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+🚀;Next.js+Enthusiast✨;BSc+Student+🎓;Always+Learning+💡&center=true&width=500&height=45">
-</div>
-
-<p align="center">
-  <a href="https://protofilo-2.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/muskan-fatima-ab90732b7/">🤝 LinkedIn</a> •
-  <a href="https://dev.to/muskanfatim">✍️ Dev.to</a> •
-  <a href="https://leetcode.com/u/Code_with_muskan/">🧠 LeetCode</a> •
-  <a href="https://www.upwork.com/freelancers/~01b71c5cd538cae74b">💼 Upwork</a>
-</p>
-
-
----
-
-### ✨ About Me
-
-> I write code like I sketch dreams —
-> Simple, sharp, and full of meaning.
->
-> From the heart of Pakistan 🇵🇰,
-> I’m Muskan — a student, a creator,
-> and a frontend developer with a vision.
->
-> I breathe life into pixels using
-> **Next.js**, **Tailwind CSS**, and **TypeScript**.
->
-> Whether it’s a portfolio, a product, or a passion project —
-> I build it clean, I build it real,
-> I build it to make people feel.
->
-> Currently:
-> 🌱 Faculty member at GenAI Program
-> 🔧 Contributing to GSSoC & Hacktoberfest
-> 📖 Always learning, always building.
-
----
-
-
-### 💻 Tech Stack I Love
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,git" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+🚀;GSSoC+Contributor+🎯;YouTuber+%7C+Open+Source+Mentor+📢;Always+Learning+💡&center=true&width=500&height=45">
 </div>
 
 ---
 
+## 🚀 About Me
 
-### 🎨 Project Showcase
+I’m **Muskan Fatima**, a passionate **Frontend Developer** and **Open Source Contributor** from Pakistan 🇵🇰.
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://mornet-project.vercel.app/">
-        <br />
-        <strong>🚗 Mornet Car Rent</strong>
-      </a>
-      <br />
-      <sub>Next.js · Tailwind · Modern UI</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://mf-resume-builder.vercel.app/"> 
-      <br />
-      <strong>📄 Resume Generator</strong>
-        </a>
-      <br />
-      <sub>Dynamic templates · Logic-heavy</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://panda-clone.vercel.app/">
-        <br />
-        <strong>🥡 FoodPanda Clone</strong>
-      </a>
-      <br />
-      <sub>Responsive · React + CSS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://protofilo-2.vercel.app/">
-        <br />
-        <strong>🌐 Protofilo</strong>
-      </a>
-      <br />
-      <sub>Portfolio · Next.js + TS</sub>
-    </td>
-    <td align="center">
-      <a href="https://growth-mindset-project-0.streamlit.app/">
-        <br />
-        <strong>🌱 Growth Mindset App</strong>
-      </a>
-      <br />
-      <sub>Motivation · Streamlit</sub>
-    </td>
-    <td align="center">
-      <a href="https://tech-event-lovat.vercel.app/">
-        <br />
-        <strong>🎉 Tech Events App</strong>
-      </a>
-      <br />
-      <sub>Filtering · Pure JS</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+- 🌱 **Faculty Member** – GenAI Program (Governor House, Karachi)  
+- 🎥 **YouTube Creator** – Helping new GSSoC contributors grow  
+- 💼 **Freelancer** – Building clean, responsive apps with **Next.js, TypeScript, Tailwind CSS**  
+- 📖 Always learning, always building  
 
 ---
 
+## 📺 Featured — My YouTube Channel
 
-### 📊 GitHub Highlights
+[![Subscribe to My Channel](https://img.shields.io/badge/📢_Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@muskan-gl2dm)
+[![Watch Latest Video](https://img.shields.io/badge/▶️_Watch_Now-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/https://youtu.be/PeXkDdAjef0?si=YBPc5vNR018STDhn)
+
+🎯 **Goal:** Empower new contributors, share open source tips, and inspire more people to code!  
+📌 Uploads: GSSoC tips, contribution guides, coding advice, personal experience.  
+
+---
+
+## 💻 My Work
+
+| Project | Tech Stack | Highlights |
+|---------|-----------|------------|
+| [🚗 Mornet Car Rent](https://mornet-project.vercel.app/) | Next.js, Tailwind | Modern UI, fast performance, API optimized |
+| [📄 Resume Generator](https://mf-resume-builder.vercel.app/) | Next.js, TypeScript | Dynamic templates, logic-heavy design |
+| [🥡 FoodPanda Clone](https://panda-clone.vercel.app/) | React, CSS | Responsive UI, user-friendly ordering |
+| [🌱 Growth Mindset App](https://growth-mindset-project-0.streamlit.app/) | Python, Streamlit | Motivation-focused, interactive |
+| [🎉 Tech Events App](https://tech-event-lovat.vercel.app/) | JavaScript | Filtering, clean layout |
+
+---
+
+## 🌍 Connect with Me Everywhere
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://protofilo-2.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muskan-fatima-ab90732b7/)  
+[![Upwork](https://img.shields.io/badge/💼_Hire_Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01b71c5cd538cae74b)  
+[![Dev.to](https://img.shields.io/badge/✍️_Dev.to-000000?style=for-the-badge&logo=dev.to)](https://dev.to/muskanfatim)  
+[![LeetCode](https://img.shields.io/badge/🧠_LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Code_with_muskan/)  
+[![CodeWars](https://img.shields.io/badge/⚔️_CodeWars-b1361e?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/muskan-fatim)
+
+---
+
+## 📊 Stats & Achievements
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskan-fatim&theme=2077" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muskan-fatim&theme=radical" />
-</div>
-
----
-
-### 🎯 Coding Profiles
-
-<div align="center">
+  <br />
   <img src="https://www.codewars.com/users/muskan-fatim/badges/large" />
-  <br /><br />
-  <a href="https://leetcode.com/u/Code_with_muskan/">
-    <img src="https://img.shields.io/badge/LeetCode-Muskan-orange?style=flat&logo=leetcode" />
-  </a>
-  <a href="https://dev.to/muskanfatim">
-    <img src="https://img.shields.io/badge/Dev.to-Muskan-000000?style=flat&logo=dev.to" />
-  </a>
 </div>
 
 ---
 
-### 📬 Connect With Me
+## 📬 Let’s Work Together
 
-<div align="center">
-  <a href="mailto:mushiifatima3456@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-muskan-fc3c3c?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/AbdulRehma59653">
-    <img src="https://img.shields.io/badge/TWITTER-Muskan-blue?style=flat&logo=twitter" />
-  </a>
-</div>
+💌 **Email:** [mushiifatima3456@gmail.com](mailto:mushiifatima3456@gmail.com)  
+📢 **Open to:** Freelance work, collaborations, and speaking opportunities.  
+
+[![Hire Me](https://img.shields.io/badge/💼_Let's_Collaborate-ff69b4?style=for-the-badge)](mailto:mushiifatima3456@gmail.com)  
+[![Subscribe](https://img.shields.io/badge/📢_Subscribe_to_My_YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/PeXkDdAjef0?si=YBPc5vNR018STDhn)
 
 ---
 
-> 🔁 *"Code. Create. Contribute. Repeat."*
+*"Code. Create. Contribute. Repeat."*
+
 
 
 
